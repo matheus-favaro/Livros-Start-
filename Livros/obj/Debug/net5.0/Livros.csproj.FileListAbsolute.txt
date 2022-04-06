@@ -1,0 +1,9 @@
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.csproj.AssemblyReference.cache
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.AssemblyInfoInputs.cache
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.AssemblyInfo.cs
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.RazorAssemblyInfo.cache
+C:\Users\Matheus Fávaro\Desktop\Livros\Livros\obj\Debug\net5.0\Livros.RazorAssemblyInfo.cs
